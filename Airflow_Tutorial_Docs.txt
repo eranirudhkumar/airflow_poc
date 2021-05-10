@@ -1,0 +1,70 @@
+https://marclamberti.com/blog/
+
+https://github.com/tuanavu/airflow-tutorial
+
+
+https://www.youtube.com/watch?v=43wHwwZhJMo
+Stpes to write an Airflow Dag: https://www.applydatascience.com/airflow/writing-your-first-pipeline/
+	- Importing module
+	- Default Dag Arguments
+	- Instantiate Dag
+	- Task
+	- Jinja template **
+	- Setting up Dependencies
+
+https://www.youtube.com/watch?v=4rQSa2zEWfw
+Airflow Key Concepts: https://www.applydatascience.com/airflow/airflow-concept/
+	- Overview
+	- Understand Dags
+	- Operators and Tasks
+		- Operators:
+			* Sensor
+			* Operators
+			* Transfers
+	- DagRun and TaskInstances
+		
+https://www.youtube.com/watch?v=bHQ7nzn0j6k	
+Airflow Variables:
+	- python file
+	- airflow
+	- json
+	- command line
+	
+
+https://www.youtube.com/watch?v=Q_v6BqS8DhA
+TaskGroup vs SubDag:
+	- SubDag
+	- TaskGroup
+	- Nested TaskGroup
+	
+https://www.youtube.com/watch?v=jvad7eF0qqY
+Apache Airflow | How to Create an Operator
+	- ElasticSearch Operator
+	
+https://www.youtube.com/watch?v=zukGZlm00_I
+Variables, Macros and Templating in Apache Airflow
+	- Variables
+		* user interface
+		* command line
+	- Templating
+		* Jinja
+	- Macros
+		* Predefind
+		
+https://www.youtube.com/watch?v=aRfuZ4DVqUU
+BranchPythonOperator: https://marclamberti.com/blog/airflow-branchpythonoperator/
+	- branch task
+	- storing
+	
+https://www.youtube.com/watch?v=3nhsEcBHz4Y
+Celery Executor with MySQL and RabbitMQ
+	- Introduction
+
+https://www.youtube.com/watch?v=8veO7-SN5ZY
+XCom: https://marclamberti.com/blog/airflow-xcom/ or https://www.notion.so/Airflow-XCOM-All-you-have-to-know-in-10-mins-b6a937b449134bf3a9bbe44d5a758662
+	- Use case
+	- What is a XCom?
+	- How to push a XCom
+	- How to pull a XCom
+	- XCom limitations
+	
